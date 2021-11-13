@@ -1,12 +1,12 @@
+Problem Statement - 
+
+Gagannaut Anand wants to go to moon in a Chandravahan. But Chandravahan object destroyer beam is damaged so the harmful objects need to be avoided at all costs to keep Gagannaut Anand safe and India's hopes of a brightfuture alive. You are working in the Control and Operationalteam of ISRO which regulates Satellite's launch,reorbiting, disposal, etc.You need to perform certain checks to make Chandravahan decipher the shortest possible path between two satellites and to avoid any possible orbital.
 # BFS(Breadth First Search) Algorithm to find the shortest path
 
-## Gameplay - https://www.youtube.com/watch?v=UHCZF_oP3QU
-## Itch.io - https://crew7studiogames.itch.io/bfs-simulation-using-unity-game-engine
-
 <br/><br/>
-## This algorithm can be used in Tower Defense games  for Enemy AI to find shortest path between two points
 
-This Unity project uses  Breadth First Search algorithm to find the shortest path between 2 points.
+
+This Unity project uses  Breadth First Search algorithm to find the shortest path between 2 satellites.
 
 BFS is an algorithm to find the shortest path between two points. 
 
@@ -21,15 +21,7 @@ Set the transform of START and END point on the script attached to the Node game
 
 <br/>
 
-## SCREENSHOTS : 
-<p>
-<img src="Breadth_First_Search/SCREENSHOTS/Screenshot%20(113).png" width="280" />
-<img src="Breadth_First_Search/SCREENSHOTS/Screenshot%20(114).png" width="280" />
-<img src="Breadth_First_Search/SCREENSHOTS/Screenshot%20(115).png" width="280" />
-<img src="Breadth_First_Search/SCREENSHOTS/Screenshot%20(116).png" width="280" />
-<img src="Breadth_First_Search/SCREENSHOTS/Screenshot%20(117).png" width="280" />
 
-</p>
 
 
 Goto Builds and click on the .exe file to play the game.
